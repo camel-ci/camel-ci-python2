@@ -1,0 +1,6 @@
+# Local
+times.txt
+
+# Cache
+__pycache__/
+*.pyc
